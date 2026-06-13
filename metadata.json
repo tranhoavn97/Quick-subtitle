@@ -1,0 +1,6 @@
+{
+  "name": "Quick Subtitle AI",
+  "description": "A professional AI subtitle generator web app. Features video upload, subtitle options, and a Vietnamese UI with a dark theme and yellow accents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
